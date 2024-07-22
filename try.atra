@@ -1,0 +1,5 @@
+show >> Hi hello, World.
+var >> int a=18
+var >> float b=69.69
+show >> The output is: 
+calculate >> a+b
